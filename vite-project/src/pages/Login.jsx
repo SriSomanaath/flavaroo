@@ -16,7 +16,7 @@ const LoginPage = () => {
     <>
     <div className="text-center">
       <img
-        src="../assets/images/TecharionLogo.png" 
+        src="./images/TecharionLogo.png" 
         alt="Tech Arion Logo" 
         className="mx-auto mt-8"
       />
